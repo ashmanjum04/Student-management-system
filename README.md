@@ -13,4 +13,5 @@ This is a simple SQL-based Student Management System using SQLite on Termux.
 
 ## Author
 ASHMANJUM
+BSC computer science student
 
